@@ -39,8 +39,6 @@ const busStops = [
       move();
     }, 1000);
     }
-    
-  }
   
   
   if (typeof module !== 'undefined') {
